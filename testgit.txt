@@ -1,8 +1,4 @@
 Hello my first git file
 This is update in branch file
 This is the update from development2
-<<<<<<< HEAD
-This is recent update-new
-=======
-This is latest update
->>>>>>> ab094183b9bcbce602112132457e653dc4f4bbe7
+This is latest update  --  new
