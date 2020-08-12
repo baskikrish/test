@@ -1,4 +1,4 @@
 Hello my first git file
 This is update in branch file
 This is the update from development2
-This is latest update
+This is latest update  --  new
