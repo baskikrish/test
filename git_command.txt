@@ -1,0 +1,7 @@
+git init - to download all  git related files. first process of 
+git config - to configurate user. eg: git config user.email "mailid" user.name "name"
+git branch - to display branches
+git branch [branchname] - to create branch
+git checkout [branchname] - switch to branch
+git merge [branchname] - to merge file in master [create pull request before merge]
+git branch -d [branchname] - to delete branch
